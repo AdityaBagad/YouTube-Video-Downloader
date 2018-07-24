@@ -1,5 +1,5 @@
 # YouTube-Video-Downloader
-This is a basic YouTube video downloader using Python
+A simple application to download YouTube videos using Python-tkinter.
 
 ## Installation
 
